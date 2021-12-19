@@ -1,6 +1,6 @@
 {
-  "name": "demo",
-  "version": "1.0.8",
+  "name": "xuedemo",
+  "version": "1.0.9",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -10,5 +10,6 @@
   "license": "ISC",
   "publishConfig": {
     "access": "public"
-  }
+  },
+  "gitHead": "e5174d76a9ebb9715749235882b60481e0e6c3f3"
 }
