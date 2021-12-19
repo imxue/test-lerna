@@ -1,5 +1,5 @@
 {
-  "name": "demo",
+  "name": "xuedemo",
   "version": "1.0.10",
   "description": "",
   "main": "index.js",
@@ -11,5 +11,5 @@
   "publishConfig": {
     "access": "public"
   },
-  "gitHead": "e5174d76a9ebb9715749235882b60481e0e6c3f3"
+  "gitHead": "a6a0263ad6208976d705c13a668f8d6aedfe4b6f"
 }
