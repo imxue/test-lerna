@@ -17,5 +17,6 @@
   "gitHead": "4aff2f11e9401d43629da393e10110294588d291",
   "dependencies": {
     "inquirer": "^8.2.0"
-  }
+  },
+  "GH_TOKEN": "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"
 }
