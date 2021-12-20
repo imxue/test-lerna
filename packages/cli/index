@@ -1,30 +1,30 @@
 #!/usr/bin/env node
 
-const inquirer = require('inquirer')
+const inquirer = require('inquirer');
 let question = [
-    {
-        type: 'input',
-        name: 'first_name',
-        message: "What's your first name, jack",
-        validate(value) {
-            if (value) {
-                return true
-            } else {
-                return 'please input your first name, jack12SS1'
-            }
-        }
+  {
+    type: 'input',
+    name: 'first_name',
+    message: "What's your first name, jack",
+    validate(value) {
+      if (value) {
+        return true;
+      } else {
+        return 'please input your first name, jack12SS1';
+      }
     },
-    {
-        type: 'input',
-        name: 'last_name',
-        message: "What's your last name",
-        default() {
-            return 'xuejiang';
-        },
+  },
+  {
+    type: 'input',
+    name: 'last_name',
+    message: "What's your last name",
+    default() {
+      return 'xuejiang';
     },
-]
-const answer = inquirer.prompt(question)
+  },
+];
+const answer = inquirer.prompt(question);
 answer.then((e) => {
-    console.log(e)
-})
-console.log("cli2")
+  console.log(e);
+});
+console.log('cli3');
