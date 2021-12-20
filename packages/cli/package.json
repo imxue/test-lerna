@@ -1,6 +1,6 @@
 {
   "name": "@iyundemo/cli-demo",
-  "version": "1.0.29-alpha.10",
+  "version": "1.0.29-alpha.11",
   "description": "",
   "main": "index.js",
   "scripts": {
