@@ -10,7 +10,7 @@ let question = [
             if (value) {
                 return true
             } else {
-                return 'please input your first name, jack1'
+                return 'please input your first name, jack12SS'
             }
         }
     },
