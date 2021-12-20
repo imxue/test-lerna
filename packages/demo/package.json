@@ -1,15 +1,16 @@
 {
-  "name": "@iyundemo/demo",
-  "version": "1.0.24",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "",
-  "license": "ISC",
-  "publishConfig": {
-    "access": "public"
-  },
-  "gitHead": "f0864ca1522d466477386b4647ec9fd2613dbf7c"
+	"name": "@iyundemo/demo",
+	"version": "1.0.24",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"author": "",
+	"license": "ISC",
+	"publishConfig": {
+		"access": "public"
+	},
+	"gitHead": "f0864ca1522d466477386b4647ec9fd2613dbf7c",
+	"dependencies": {}
 }

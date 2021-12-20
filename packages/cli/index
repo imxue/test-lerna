@@ -1,0 +1,21 @@
+const inquirer = require('inquirer')
+let question = [
+    {
+        type: 'input',
+        name: 'first_name',
+        message: "What's your first name",
+    },
+    {
+        type: 'input',
+        name: 'last_name',
+        message: "What's your last name",
+        default() {
+            return 'Doe';
+        },
+    },
+]
+const answer = inquirer.prompt(question)
+answer.then((e) => {
+    console.log(e)
+})
+console.log("cli2")

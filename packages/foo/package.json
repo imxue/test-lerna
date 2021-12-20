@@ -11,5 +11,8 @@
   "publishConfig": {
     "access": "public"
   },
-  "gitHead": "f0864ca1522d466477386b4647ec9fd2613dbf7c"
+  "gitHead": "f0864ca1522d466477386b4647ec9fd2613dbf7c",
+  "dependencies": {
+    "inquirer": "^8.2.0"
+  }
 }
