@@ -6,6 +6,13 @@ let question = [
         type: 'input',
         name: 'first_name',
         message: "What's your first name",
+        validate(value) {
+            if (value) {
+                return true
+            } else {
+                return 'please input your first name'
+            }
+        }
     },
     {
         type: 'input',
