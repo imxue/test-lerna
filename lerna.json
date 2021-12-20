@@ -3,6 +3,5 @@
     "packages/*"
   ],
   "version": "1.0.29-alpha.4",
-  "changelogPreset": "angular",
-  "GH_TOKEN": "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"
+  "changelogPreset": "angular"
 }
