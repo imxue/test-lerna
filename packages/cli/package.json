@@ -14,7 +14,7 @@
   "bin": {
     "iyun": "index"
   },
-  "gitHead": "f0864ca1522d466477386b4647ec9fd2613dbf7c",
+  "gitHead": "4aff2f11e9401d43629da393e10110294588d291",
   "dependencies": {
     "inquirer": "^8.2.0"
   }
