@@ -19,7 +19,7 @@ let question = [
         name: 'last_name',
         message: "What's your last name",
         default() {
-            return 'Doe';
+            return 'xuejiang';
         },
     },
 ]
