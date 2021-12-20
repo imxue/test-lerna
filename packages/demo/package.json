@@ -1,6 +1,6 @@
 {
 	"name": "@iyundemo/demo",
-	"version": "1.0.24",
+	"version": "1.0.25",
 	"description": "",
 	"main": "index.js",
 	"scripts": {
@@ -11,6 +11,5 @@
 	"publishConfig": {
 		"access": "public"
 	},
-	"gitHead": "f0864ca1522d466477386b4647ec9fd2613dbf7c",
-	"dependencies": {}
+	"gitHead": "f0864ca1522d466477386b4647ec9fd2613dbf7c"
 }
