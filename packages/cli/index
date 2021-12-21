@@ -27,4 +27,4 @@ const answer = inquirer.prompt(question);
 answer.then((e) => {
   console.log(e);
 });
-console.log('cli3233133335332325121');
+console.log('cli32331333353323251213');
