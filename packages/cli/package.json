@@ -17,5 +17,5 @@
   "gitHead": "4aff2f11e9401d43629da393e10110294588d291",
   "dependencies": {
     "inquirer": "^8.2.0"
-  },
+  }
 }
