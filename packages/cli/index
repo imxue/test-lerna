@@ -27,4 +27,4 @@ const answer = inquirer.prompt(question);
 answer.then((e) => {
   console.log(e);
 });
-console.log('生成 release1');
+console.log('生成 release2221');
